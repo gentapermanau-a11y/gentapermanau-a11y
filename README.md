@@ -82,7 +82,7 @@ learning web development, game development, and new technologies.
 
 <p align="left">
 
-<a href="https://github.com/USERNAME" target="_blank">
+<a href="https://github.com/gentapermanau-a11y" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-004090?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
